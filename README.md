@@ -11,6 +11,6 @@
    Email: arjunchavhan024@gmail.com
 
 ## Link :
-   url : https://github.com/arjunchavhan024/Spotify
+   url : (https://spotify-arjunchavhan024.netlify.app/)
 
 
